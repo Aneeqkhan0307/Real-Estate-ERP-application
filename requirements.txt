@@ -1,0 +1,5 @@
+psycopg2-binary
+python-ld
+psycopg2
+wheel
+wkhtmltox_0.12.5-1.bionic_amd64.deb
